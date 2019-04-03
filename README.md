@@ -32,11 +32,7 @@
   </p>
   <p align="center">
     <a href="https://github.com/universelabs/meta">
-      Meta Framework
-    </a>
-    &middot;
-    <a href="https://github.com/universelabs/meta-ux-flow">
-      Meta UX Flow
+      ‹ Back to Meta
     </a>
   </p>
 </div>
