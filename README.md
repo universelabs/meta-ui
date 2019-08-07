@@ -1,17 +1,6 @@
 <div align="center">
   <h3 align="center">Meta UI (Sketch Library)</h3>
-  <i>by 
-    <a href="https://github.com/universelabs" alt="Universe Labs GitHub">
-      Universe Labs
-    </a>
-  </i>
-  <br/>
-  <br/>  
   <p align="center">
-    <a href="https://github.com/universelabs/meta">
-      Go to Meta
-    </a>
-    &nbsp;&middot;&nbsp;
     <a href="https://github.com/universelabs/meta-ui/issues/new" alt="Request feature (Meta UI)">
       Request feature
     </a>
@@ -39,6 +28,11 @@
     &middot;
     <a href="https://github.com/universelabs/meta/stargazers">
       <img src="https://img.shields.io/github/stars/universelabs/meta-ui.svg?style=social&label=Star&maxAge=2592000" alt="Star Repo" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/universelabs/meta">
+      Go to Meta
     </a>
   </p>
 </div>
