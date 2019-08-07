@@ -8,22 +8,26 @@
   <br/>
   <br/>  
   <p align="center">
+    <a href="https://github.com/universelabs/meta">
+      Go to Meta
+    </a>
+    &nbsp;&middot;&nbsp;
     <a href="https://github.com/universelabs/meta-ui/issues/new" alt="Request feature (Meta UI)">
       Request feature
     </a>
-    &middot;
+    &nbsp;&middot;&nbsp;
     <a href="https://twitter.com/intent/follow?screen_name=universelabs" alt="Follow UniverseLabs on Twitter">
       Twitter
     </a>
-    &middot;
+    &nbsp;&middot;&nbsp;
     <a href="https://medium.com/universelabs" alt="UniverseLabs – Medium">
       Medium
     </a>
-    &middot;
+    &nbsp;&middot;&nbsp;
     <a href="https://join.slack.com/t/universelabs/shared_invite/enQtNDQ0MjY3NDI5MTkwLTIzMWQ4M2U3MGQ3ZDY5MzM5MGQ5ZDM1MDZjNTgwNGI5NDdiNDY4ZDQyNWI2NjEzZmU3NzVmOTYwYzEzYzc1ZDE">
       Slack
     </a>
-    &middot;
+    &nbsp;&middot;&nbsp;
     <a href="https://www.npmjs.com/package/@universelabs/meta" alt="NPM @universelabs/meta">
       npm
     </a>
@@ -35,11 +39,6 @@
     &middot;
     <a href="https://github.com/universelabs/meta/stargazers">
       <img src="https://img.shields.io/github/stars/universelabs/meta-ui.svg?style=social&label=Star&maxAge=2592000" alt="Star Repo" />
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://github.com/universelabs/meta">
-      Go to Meta
     </a>
   </p>
 </div>
