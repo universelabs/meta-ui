@@ -1,9 +1,10 @@
 <div align="center">
-  <h3 align="center">Meta UI (Sketch Library) by 
+  <h3 align="center">Meta UI (Sketch Library)</h3>
+  <i>by 
     <a href="https://github.com/universelabs" alt="Universe Labs GitHub">
       Universe Labs
     </a>
-  </h3>
+  </i>
   <p align="center">
     <a href="https://github.com/universelabs/meta-ui/issues/new" alt="Request feature (Meta UI)">
       Request feature
