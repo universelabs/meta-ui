@@ -5,6 +5,7 @@
       Universe Labs
     </a>
   </i>
+  <br/>
   <br/>  
   <p align="center">
     <a href="https://github.com/universelabs/meta-ui/issues/new" alt="Request feature (Meta UI)">
