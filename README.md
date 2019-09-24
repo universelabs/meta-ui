@@ -1,33 +1,44 @@
 <div align="center">
-  <h3 align="center">Meta UI (Sketch Library)</h3>
-  <p align="center">
-    <a href="https://github.com/universelabs/meta-ui/issues/new" alt="Request feature (Meta UI)">
+  <h3>Meta UI (Sketch Library)</h3>
+  <p>
+    An open source Sketch design library for Meta front-end framework.
+    <br/>
+    <a href="https://universe.engineering">
+      <strong>universe.engineering</strong>
+    </a>
+  </p>
+  <p>
+    <a href="https://github.com/universelabs/meta-ui/issues/new?template=feature_request.md" alt="Request feature">
       Request feature
     </a>
     &nbsp;&middot;&nbsp;
-    <a href="https://twitter.com/intent/follow?screen_name=universelabs" alt="Follow UniverseLabs on Twitter">
-      Twitter
+    <a href="https://github.com/universelabs/" alt="Explore Universe Labs GitHub">
+      Explore
+    </a>
+    &nbsp;&middot;&nbsp;
+    <a href="https://github.com/universelabs/meta-ui/issues/new?template=bug_report.md" alt="Report a Bug">
+      Report bug
     </a>
     &nbsp;&middot;&nbsp;
     <a href="https://medium.com/universelabs" alt="UniverseLabs – Medium">
       Medium
     </a>
     &nbsp;&middot;&nbsp;
-    <a href="https://join.slack.com/t/universelabs/shared_invite/enQtNDQ0MjY3NDI5MTkwLTIzMWQ4M2U3MGQ3ZDY5MzM5MGQ5ZDM1MDZjNTgwNGI5NDdiNDY4ZDQyNWI2NjEzZmU3NzVmOTYwYzEzYzc1ZDE">
-      Slack
-    </a>
-    &nbsp;&middot;&nbsp;
     <a href="https://www.npmjs.com/package/@universelabs/meta" alt="NPM @universelabs/meta">
       npm
     </a>
-  </p>
-  <p align="center">
-    <a href="https://twitter.com/intent/follow?screen_name=universelabs">
-      <img src="https://img.shields.io/twitter/url/https/twitter.com/universelabs.svg?style=social&label=Follow%20%40universelabs&logo=twitter" alt="Follow UniverseLabs on Twitter" />
+    &nbsp;&middot;&nbsp;
+    <a href="https://join.slack.com/t/universelabs/shared_invite/enQtNjA2MjM1NjAyNzI0LTUyYWZjM2I5M2VhMTU3YTY3ZGI0YTAwNDQwN2I1Mzc4Yjk3YTg2Y2IxOGMyMDljOTdkM2Y4NTM3ZTAwYzc3NTg">
+      Slack
     </a>
-    &middot;
-    <a href="https://github.com/universelabs/meta/stargazers">
-      <img src="https://img.shields.io/github/stars/universelabs/meta-ui.svg?style=social&label=Star&maxAge=2592000" alt="Star Repo" />
+    <br/>
+    <br/>
+    <a href="https://twitter.com/intent/follow?screen_name=universelabs">
+      <img src="https://img.shields.io/twitter/url/https/twitter.com/universelabs.svg?style=social&label=Follow%20%40universelabs&logo=twitter" alt="follow on Twitter" />
+    </a>
+    &nbsp;&middot;&nbsp;
+    <a href="/stargazers">
+      <img src="https://img.shields.io/github/stars/universelabs/universe-storage.svg?style=social&label=Star&maxAge=2592000" alt="Star Repo" />
     </a>
   </p>
   <p align="center">
@@ -36,7 +47,6 @@
     </a>
   </p>
 </div>
-<br/>
 
 <br/>
 
@@ -45,7 +55,6 @@
 
 - [What's included](#whats-included)
 - [Getting started](#getting-started)
-
 
 
 ## What's included
