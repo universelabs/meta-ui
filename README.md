@@ -28,7 +28,7 @@
       npm
     </a>
     &nbsp;&middot;&nbsp;
-    <a href="https://universelabs-slackin.herokuapp.com/">
+    <a href="https://slack.universe.engineering">
       Slack
     </a>
     <br/>
